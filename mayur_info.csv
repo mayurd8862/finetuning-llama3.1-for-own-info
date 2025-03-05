@@ -1,0 +1,43 @@
+input,output,instruction
+What is Mayur Dabade's educational background?,"Mayur Dabade is in his final year pursuing a BTech in Artificial Intelligence and Data Science at Vishwakarma Institute of Technology, Pune.",Answer the question clearly.
+Where did Mayur complete his first internship?,"Mayur completed his first internship at HTS, Pune, in the data science field.",Answer the question clearly.
+What is Mayur's current internship?,"Mayur is currently working as a Generative AI Intern at FracsNet, where he is building an Agentic AI framework for the healthcare industry.",Answer the question clearly.
+What are Mayur's technical skills?,"Mayur is skilled in machine learning algorithms, neural networks, generative AI, and has proficiency in Python.",Answer the question clearly.
+How many patents has Mayur published?,Mayur has published one patent in the Indian Patent system.,Answer the question clearly.
+How many research papers has Mayur published?,Mayur has published three research papers in international conferences.,Answer the question clearly.
+Which open-source events has Mayur participated in?,Mayur has participated in Social Summer of Code and Girlscript Summer of Code.,Answer the question clearly.
+What is Mayur's Python package called?,Mayur released his first Python package named 'filesense' on the PyPI platform.,Answer the question clearly.
+What inspired Mayur to work on his AI-powered ML engineer project?,"Mayur was inspired by Cognition Labs' Devine, the world’s first AI software engineer, and aims to automate ML engineering tasks.",Answer the question clearly.
+What are the key features of Mayur's AI-powered ML engineer project?,"The project automates ML engineering tasks, including environment setup, repository creation, and README generation using generative AI.",Answer the question clearly.
+What was the goal of Mayur's project at HTS?,"The goal was to perform mobile tower inspections using AI to detect components, rust, and create 3D models.",Answer the question clearly.
+Which model did Mayur use for tower component detection?,Mayur trained a YOLOv8 model using the Ultralytics library.,Answer the question clearly.
+How many images were labeled for training in the HTS project?,Mayur labeled 450 images using the labelImg tool for model training.,Answer the question clearly.
+What is the purpose of the AI chatbot at FracsNet?,"The chatbot assists users with order processing, product information, price comparison, and recommendations in healthcare e-commerce.",Answer the question clearly.
+Which tech stack is used for the FracsNet chatbot?,"The chatbot is built using LangChain, LangSmith, Python, Streamlit, ChromaDB, and CrewAI.",Answer the question clearly.
+What are the four AI agents in the FracsNet chatbot?,"The agents are Order Agent, Gen Info Agent, Price Comparison Agent, and Recommendation Agent.",Answer the question clearly.
+What is the primary function of the Order Agent?,"The Order Agent helps users track orders, check order status, and cancel orders.",Answer the question clearly.
+What is BrainWave?,"BrainWave is a project management and data interaction tool for researchers and students, offering features like summarization and chat with data.",Answer the question clearly.
+What technique did Mayur use for document summarization in BrainWave?,"Initially, Mayur used the Stuff technique but later switched to the MapReduce technique for better efficiency.",Answer the question clearly.
+Which vector database is used in BrainWave?,BrainWave uses FAISS for storing and retrieving embeddings.,Answer the question clearly.
+How does BrainWave handle document interaction?,BrainWave uses Retrieval-Augmented Generation (RAG) to enable chat-based interaction with documents and websites.,Answer the question clearly.
+What problem did Mayur face in BrainWave related to LLM context windows?,"Mayur initially faced issues with LLM context windows as they have a fixed limit, leading to a switch to MapReduce summarization.",Answer the question clearly.
+What is BankShield?,BankShield is a customer churn prediction model designed to help banks retain their customers by predicting those likely to leave.,Answer the question clearly.
+Where did Mayur source the dataset for BankShield?,"Mayur sourced the dataset from Kaggle, which contained 10,000+ data points with 14 features.",Answer the question clearly.
+Which machine learning models were tested for BankShield?,"Mayur tested Logistic Regression, K-Neighbors Classifier, Random Forest, and AdaBoost Classifier.",Answer the question clearly.
+What MLOps techniques were used in BankShield?,"Mayur implemented data ingestion, preprocessing, analysis, model training, evaluation, and deployment using MLOps techniques.",Answer the question clearly.
+What deployment tools were used for BankShield?,"Mayur used Docker, AWS (IAM, ECR, EC2), and GitHub Actions for CI/CD deployment.",Answer the question clearly.
+What is FileSense.AI?,FileSense.AI is a semantic file renamer that uses AI to provide descriptive names for files based on content analysis.,Answer the question clearly.
+What file formats does FileSense.AI support?,"FileSense.AI supports PDFs, DOCs, and images.",Answer the question clearly.
+What are the main components of FileSense.AI?,"FileSense.AI consists of Loader, Analyzer, and Final Renamer modules.",Answer the question clearly.
+Which AI techniques are used in FileSense.AI?,FileSense.AI uses generative AI techniques for content-based renaming.,Answer the question clearly.
+What database is used for storing user credentials in BrainWave?,BrainWave uses MongoDB for storing user credentials securely.,Answer the question clearly.
+Which tool did Mayur use for interactive data visualization in BankShield?,Mayur used Streamlit to create interactive dashboards for data exploration.,Answer the question clearly.
+What problem does BankShield aim to solve?,BankShield helps banks predict customer churn and take proactive measures to retain customers.,Answer the question clearly.
+What caching technique did Mayur use to improve query time in BrainWave?,Mayur reduced query time by caching the vector database results.,Answer the question clearly.
+What deployment pipeline was used in BrainWave?,BrainWave was deployed using a CI/CD pipeline on Streamlit Cloud.,Answer the question clearly.
+What AI model did Mayur use for NLP tasks in BrainWave?,Mayur used LLAMA 3.1 via Groq for NLP-based query retrieval.,Answer the question clearly.
+What is the main goal of Mayur's AI-powered ML Engineer project?,"The project aims to automate tasks like environment creation, repository setup, and documentation for ML engineers.",Answer the question clearly.
+How many datasets has Mayur worked with in total?,"Mayur has worked with multiple datasets across different projects, including structured and unstructured data.",Answer the question clearly.
+What was the biggest challenge Mayur faced in his HTS internship?,One of the biggest challenges was labeling a large dataset manually for training the YOLOv8 model.,Answer the question clearly.
+What is the key benefit of Mayur's AI-powered ML Engineer?,"It automates repetitive ML engineering tasks, improving efficiency and reducing human effort.",Answer the question clearly.
+How does FileSense.AI help users?,"It automatically renames files based on their content, making file organization easier.",Answer the question clearly.
